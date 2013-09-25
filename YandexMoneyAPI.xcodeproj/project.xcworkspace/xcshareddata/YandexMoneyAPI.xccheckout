@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>04FCED92-CE09-498A-91B5-CC57E1CDF2DF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YandexMoneyAPI</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E8760BB0-F510-4E25-9229-F4615C6EA632</key>
+		<string>https://bitbucket.org/Ravis_Nikas/ymkit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>YandexMoneyAPI.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E8760BB0-F510-4E25-9229-F4615C6EA632</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/Ravis_Nikas/ymkit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E8760BB0-F510-4E25-9229-F4615C6EA632</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E8760BB0-F510-4E25-9229-F4615C6EA632</string>
+			<key>IDESourceControlWCCName</key>
+			<string>YandexMoneyAPI</string>
+		</dict>
+	</array>
+</dict>
+</plist>
